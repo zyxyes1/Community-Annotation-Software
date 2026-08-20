@@ -32,6 +32,7 @@ The saved TXT file follows a simple format:
 For example:
 
 DA1 121.41973697 30.29298816 121.41974267 30.29299519 121.41974854 30.29299021 121.41974246 30.29298392
+
 DA2 121.41974582 30.29298172 121.41975179 30.29298903 121.41975744 30.29298467 121.41975094 30.29297823
 
 This makes it easy to import into GIS, statistical software, or custom analysis pipelines.
@@ -100,14 +101,19 @@ Usage
 
 🧑‍💻 Contributing
 
+
 Contributions are welcome! Please feel free to open issues or submit pull requests.
 
+
 📄 License
+
 
 This project is licensed under the MIT License – see the LICENSE file for details.
 
 
+
 🙏 Acknowledgements
+
 
     Built with PyQt5 and GDAL.
 
