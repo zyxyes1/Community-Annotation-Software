@@ -92,11 +92,11 @@ Usage
 
 ├── a107-community-annotation-software.py             # Main application
 
-├── screenshot.png                                    # (optional) Interface screenshot
+├── screenshot.png                                    # Interface screenshot
 
 ├── README.md                                         # This file
 
-└── LICENSE                                           # MIT License (recommended)
+└── LICENSE                                           # MIT License
 
 
 🧑‍💻 Contributing
@@ -108,7 +108,7 @@ Contributions are welcome! Please feel free to open issues or submit pull reques
 📄 License
 
 
-This project is licensed under the MIT License – see the LICENSE file for details.
+This project is licensed under the MIT License.
 
 
 
