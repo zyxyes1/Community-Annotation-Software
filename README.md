@@ -82,9 +82,10 @@ Usage
     Repeat for all communities.
 
     Click Save Community Mask as TXT to export.
+    
 
 📁 Repository Structure
-text
+
 
 .
 ├── a107-community-annotation-software.py   # Main application
@@ -95,18 +96,14 @@ text
 🧑‍💻 Contributing
 
 Contributions are welcome! Please feel free to open issues or submit pull requests.
+
 📄 License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
+
+
 🙏 Acknowledgements
 
     Built with PyQt5 and GDAL.
 
     Inspired by precision agriculture and plant phenotyping research.
-
-text
-
-
----
-
-
