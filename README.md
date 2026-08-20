@@ -90,13 +90,13 @@ Usage
 
 
 
-├── a107-community-annotation-software.py   # Main application
+├── a107-community-annotation-software.py             # Main application
 
-├── screenshot.png            # (optional) Interface screenshot
+├── screenshot.png                                    # (optional) Interface screenshot
 
-├── README.md                 # This file
+├── README.md                                         # This file
 
-└── LICENSE                   # MIT License (recommended)
+└── LICENSE                                           # MIT License (recommended)
 
 
 🧑‍💻 Contributing
