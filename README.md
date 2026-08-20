@@ -30,6 +30,7 @@ The saved TXT file follows a simple format:
 <plot_name> lon1 lat1 lon2 lat2 …
 
 For example:
+
 DA1 121.41973697 30.29298816 121.41974267 30.29299519 121.41974854 30.29299021 121.41974246 30.29298392
 DA2 121.41974582 30.29298172 121.41975179 30.29298903 121.41975744 30.29298467 121.41975094 30.29297823
 
@@ -43,8 +44,7 @@ This makes it easy to import into GIS, statistical software, or custom analysis 
 - **Full English UI** with built‑in user manual (Help → User Manual).
 - **Save/Load** community masks for re‑use across multiple visits.
 
-- 
-- ---
+
 
 ## 🚀 Getting Started
 
@@ -69,6 +69,7 @@ This makes it easy to import into GIS, statistical software, or custom analysis 
 Usage
 
     Run the software:
+    
     bash
 
     python a107-community-annotation-software.py
@@ -87,7 +88,7 @@ Usage
 📁 Repository Structure
 
 
-.
+
 ├── a107-community-annotation-software.py   # Main application
 
 ├── screenshot.png            # (optional) Interface screenshot
